@@ -52,24 +52,3 @@ input:focus, textarea:focus, select:focus
    background-image: none;
    border-radius: 0px;
 }
-#wb_Captcha1 span
-{
-   display: block;
-   overflow: hidden;
-   padding: 0 0px 0 5px;
-}
-#Captcha1
-{
-   border: 1px solid #CCCCCC;
-   border-radius: 4px;
-   background-color: #FFFFFF;
-   background-image: none;
-   color: #000000;
-   font-family: Arial;
-   font-weight: normal;
-   font-style: normal;
-   font-size: 13px;
-   padding: 4px 4px 4px 4px;
-   margin: 0;
-   text-align: left;
-}
