@@ -13,8 +13,7 @@
 <img src="images/L07BzKR.jpg" id="Image1" alt="" width="1114" height="627"></div>
 <div id="Layer1" style="position:absolute;text-align:left;left:0px;top:587px;width:1114px;height:39px;z-index:2;">
 </div>
-
-<div id="wb_Captcha1" style="position:absolute;left:340px;top:206px;width:145px;height:100px;z-index:4;">
+<div id="wb_Captcha1" style="position:absolute;left:340px;top:206px;width:145px;height:100px;z-index:3;">
 <img src="captcha1.php" alt="Click for new image" title="Click for new image" style="cursor:pointer;float:left;width:100px;height:38px;" onclick="this.src='captcha1.php?'+Math.random()">
 <span><input type="text" id="Captcha1" style="margin-top:12px;width:calc(100% - 10px);height:16px;" name="captcha" value="" spellcheck="false"></span></div>
 </body>
