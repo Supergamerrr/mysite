@@ -46,12 +46,6 @@ input:focus, textarea:focus, select:focus
    width: 100%;
    height: 100%;
 }
-#Layer1
-{
-   background-color: #000000;
-   background-image: none;
-   border-radius: 0px;
-}
 #wb_Image2
 {
    vertical-align: top;
@@ -173,6 +167,32 @@ input:focus, textarea:focus, select:focus
 {
    text-align: left;
 }
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#Layer1
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer5
+{
+   background-color: #202020;
+   background-image: none;
+   border-radius: 0px;
+}
 #wb_Image5
 {
    vertical-align: top;
@@ -187,20 +207,6 @@ input:focus, textarea:focus, select:focus
    top: 0;
    width: 100%;
    height: 100%;
-}
-#wb_Text6 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text6 div
-{
-   text-align: left;
 }
 #wb_Image4
 {
